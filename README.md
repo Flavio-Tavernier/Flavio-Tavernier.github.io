@@ -1,2 +1,3 @@
-# Flavio-Tavernier.github.io
-Portfolio de Flavio TAVERNIER, étudiant en BTS SIO
+# Portfolio de Flavio TAVERNIER, étudiant en BTS SIO
+
+## Objectifs :
