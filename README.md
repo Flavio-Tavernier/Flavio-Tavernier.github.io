@@ -18,7 +18,7 @@
   - Auto-formation
   - Mise en oeuvre des test (unitaires, d'intégration, fonctionnels, ...)
   - Documentation
-  - Gestion de version, développement collaoratif et gestion d'incidents
+  - Gestion de version, développement collaboratif et gestion d'incidents
 - Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
 
 3. Pour l'épreuve E5
